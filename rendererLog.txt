@@ -1,0 +1,326 @@
+2008-02-07 00:42:09.197 [warning] [Window] Ignoring the error while validating workspace folder vscode-vfs://github/iSystem32/codesearch - ENOPRO: No file system provider found for resource 'vscode-vfs://github/iSystem32/codesearch'
+2008-02-07 00:42:09.304 [warning] [Window] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.remote-repositories' wants API proposal 'timeline' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2008-02-07 00:42:09.305 [warning] [Window] Via 'product.json#extensionEnabledApiProposals' extension 'github.vscode-pull-request-github' wants API proposal 'agentsWindowActivation' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2008-02-07 00:42:09.305 [warning] [Window] Via 'product.json#extensionEnabledApiProposals' extension 'github.remotehub' wants API proposal 'timeline' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2008-02-07 00:42:09.802 [warning] [Window] Creation of workbench contribution 'workbench.contrib.preferencesActions' took 28ms.
+2008-02-07 00:42:09.878 [warning] [Window] Creation of workbench contribution 'workbench.contrib.remoteStatusIndicator' took 21ms.
+2008-02-07 00:42:09.942 [info] [Window] [RemoteAgentHost] Reconciling: desired=[], current=[]
+2008-02-07 00:42:09.964 [info] [Window] [AgentHost:remote] Initializing (remoteAuthority=none)
+2008-02-07 00:42:09.964 [warning] [Window] [AgentHost:remote] No remote agent connection available. Not connecting.
+2008-02-07 00:42:11.570 [error] [Network] #2: https://main.vscode-cdn.net/extensions/marketplace.json - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:11.635 [info] [Window] Found additional builtin extension gallery resources in env ["https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-server/1.5.4/extension","https://github.vscode-unpkg.net/GitHub/codespaces/1.18.17/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/azure-repos/0.40.0/extension","https://github.vscode-unpkg.net/GitHub/remotehub/0.66.0/extension","https://github.vscode-unpkg.net/GitHub/vscode-pull-request-github/0.178.0/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode/0.0.75/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-kotlin/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-explorer/0.5.0/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-repositories/0.44.0/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-rust/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-cpp/0.0.7/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-c-sharp/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-php/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-python/0.0.7/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-go/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-typescript/0.0.7/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-java/0.0.8/extension"]
+2008-02-07 00:42:13.189 [error] [Window] Extension 'ms-vscode.remote-repositories' wants API proposal 'timeline' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2008-02-07 00:42:13.225 [info] [Window] Placing extension(s) vscode.git-base, vscode.github-authentication, ms-vscode.anycode, GitHub.remotehub, ms-vscode.azure-repos, ms-vscode.remote-repositories, GitHub.vscode-pull-request-github on a separate extension host.
+2008-02-07 00:42:17.563 [error] [Window] [registerContributedFile] Extension 'GitHub.vscode-pull-request-github' failed to validate skill file: https://github.vscode-unpkg.net/GitHub/vscode-pull-request-github/0.178.0/extension/src/lm/skills/summarize-github-issue-pr-notification/SKILL.md TypeError: Failed to fetch
+2008-02-07 00:42:17.565 [error] [Window] [registerContributedFile] Extension 'GitHub.vscode-pull-request-github' failed to validate skill file: https://github.vscode-unpkg.net/GitHub/vscode-pull-request-github/0.178.0/extension/src/lm/skills/suggest-fix-issue/SKILL.md TypeError: Failed to fetch
+2008-02-07 00:42:17.566 [error] [Window] [registerContributedFile] Extension 'GitHub.vscode-pull-request-github' failed to validate skill file: https://github.vscode-unpkg.net/GitHub/vscode-pull-request-github/0.178.0/extension/src/lm/skills/form-github-search-query/SKILL.md TypeError: Failed to fetch
+2008-02-07 00:42:17.567 [error] [Window] [registerContributedFile] Extension 'GitHub.vscode-pull-request-github' failed to validate skill file: https://github.vscode-unpkg.net/GitHub/vscode-pull-request-github/0.178.0/extension/src/lm/skills/show-github-search-result/SKILL.md TypeError: Failed to fetch
+2008-02-07 00:42:17.568 [error] [Window] [registerContributedFile] Extension 'GitHub.vscode-pull-request-github' failed to validate skill file: https://github.vscode-unpkg.net/GitHub/vscode-pull-request-github/0.178.0/extension/src/lm/skills/address-pr-comments/SKILL.md TypeError: Failed to fetch
+2008-02-07 00:42:17.569 [error] [Window] [registerContributedFile] Extension 'GitHub.vscode-pull-request-github' failed to validate skill file: https://github.vscode-unpkg.net/GitHub/vscode-pull-request-github/0.178.0/extension/src/lm/skills/create-pull-request/SKILL.md TypeError: Failed to fetch
+2008-02-07 00:42:17.572 [error] [Window] Error: Unable to load https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/extensions/theme-defaults/themes/dark_modern.json: Failed to fetch
+    at Mge.internalSetColorTheme (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:1982:11989)
+    at async Promise.all (index 0)
+    at async Mge.initialize (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:1982:4892)
+2008-02-07 00:42:17.578 [error] [Window] Unknown (FileSystemError): TypeError: Failed to fetch
+    at Function.create (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:118:8936)
+    at fs (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:118:9006)
+    at EGi.readFile (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:5733:20483)
+    at async https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:5728:131150
+2008-02-07 00:42:17.580 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:42:17.582 [error] [Window] Uncaught TypeError: Failed to fetch dynamically imported module: https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/contrib/output/common/outputLinkComputerMain.js
+2008-02-07 00:42:17.758 [info] [Window] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2008-02-07 00:42:17.761 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:42:18.620 [error] [Network] #4: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/anycode-go/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.620 [error] [Network] #5: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/anycode-cpp/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.621 [error] [Network] #6: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/anycode-python/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.621 [error] [Network] #7: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/anycode-rust/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.621 [error] [Network] #8: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/anycode-c-sharp/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.621 [error] [Network] #9: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/anycode-kotlin/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.621 [error] [Network] #10: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/anycode-java/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.621 [error] [Network] #11: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/anycode-php/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.621 [error] [Network] #12: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/anycode/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.621 [error] [Network] #13: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/anycode-typescript/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.622 [error] [Network] #14: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/remotehub/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.622 [error] [Network] #15: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/codespaces/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.622 [error] [Network] #16: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/remote-server/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.622 [error] [Network] #17: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/azure-repos/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.622 [error] [Network] #18: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/remote-repositories/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.622 [error] [Network] #19: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/ms-vscode/remote-explorer/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.622 [error] [Network] #20: https://marketplace.visualstudio.com/_apis/public/gallery/vscode/github/vscode-pull-request-github/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.652 [error] [Window] Error while getting the latest version for the extension ms-vscode.anycode-go from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2008-02-07 00:42:18.654 [error] [Window] Error while getting the latest version for the extension ms-vscode.anycode-cpp from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2008-02-07 00:42:18.655 [error] [Window] Error while getting the latest version for the extension ms-vscode.anycode-python from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2008-02-07 00:42:18.655 [error] [Window] Error while getting the latest version for the extension ms-vscode.anycode-rust from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2008-02-07 00:42:18.656 [error] [Window] Error while getting the latest version for the extension ms-vscode.anycode-c-sharp from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2008-02-07 00:42:18.656 [error] [Window] Error while getting the latest version for the extension ms-vscode.anycode-kotlin from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2008-02-07 00:42:18.657 [error] [Window] Error while getting the latest version for the extension ms-vscode.anycode-java from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2008-02-07 00:42:18.657 [error] [Window] Error while getting the latest version for the extension ms-vscode.anycode-php from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2008-02-07 00:42:18.658 [error] [Window] Error while getting the latest version for the extension ms-vscode.anycode from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2008-02-07 00:42:18.658 [error] [Window] Error while getting the latest version for the extension ms-vscode.anycode-typescript from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2008-02-07 00:42:18.659 [error] [Window] Error while getting the latest version for the extension github.remotehub from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2008-02-07 00:42:18.659 [error] [Window] Error while getting the latest version for the extension github.codespaces from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2008-02-07 00:42:18.660 [error] [Window] Error while getting the latest version for the extension ms-vscode.remote-server from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2008-02-07 00:42:18.660 [error] [Window] Error while getting the latest version for the extension ms-vscode.azure-repos from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2008-02-07 00:42:18.660 [error] [Window] Error while getting the latest version for the extension ms-vscode.remote-repositories from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2008-02-07 00:42:18.661 [error] [Window] Error while getting the latest version for the extension ms-vscode.remote-explorer from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2008-02-07 00:42:18.661 [error] [Window] Error while getting the latest version for the extension github.vscode-pull-request-github from https://marketplace.visualstudio.com/_apis/public/gallery/vscode/{publisher}/{name}/latest. Trying the fallback https://www.vscode-unpkg.net/_gallery/{publisher}/{name}/latest Failed
+2008-02-07 00:42:18.712 [error] [Network] #21: https://www.vscode-unpkg.net/_gallery/ms-vscode/anycode-go/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.712 [error] [Network] #22: https://www.vscode-unpkg.net/_gallery/ms-vscode/anycode-cpp/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.712 [error] [Network] #23: https://www.vscode-unpkg.net/_gallery/ms-vscode/anycode-python/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.712 [error] [Network] #24: https://www.vscode-unpkg.net/_gallery/ms-vscode/anycode-rust/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.712 [error] [Network] #25: https://www.vscode-unpkg.net/_gallery/ms-vscode/anycode-c-sharp/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.712 [error] [Network] #26: https://www.vscode-unpkg.net/_gallery/ms-vscode/anycode-kotlin/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.713 [error] [Network] #27: https://www.vscode-unpkg.net/_gallery/ms-vscode/anycode-java/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.713 [error] [Network] #28: https://www.vscode-unpkg.net/_gallery/ms-vscode/anycode-php/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.713 [error] [Network] #29: https://www.vscode-unpkg.net/_gallery/ms-vscode/anycode/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.713 [error] [Network] #30: https://www.vscode-unpkg.net/_gallery/ms-vscode/anycode-typescript/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.713 [error] [Network] #31: https://www.vscode-unpkg.net/_gallery/github/remotehub/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.713 [error] [Network] #32: https://www.vscode-unpkg.net/_gallery/github/codespaces/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.713 [error] [Network] #33: https://www.vscode-unpkg.net/_gallery/ms-vscode/remote-server/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.713 [error] [Network] #34: https://www.vscode-unpkg.net/_gallery/ms-vscode/azure-repos/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.714 [error] [Network] #35: https://www.vscode-unpkg.net/_gallery/ms-vscode/remote-repositories/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.714 [error] [Network] #36: https://www.vscode-unpkg.net/_gallery/ms-vscode/remote-explorer/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.714 [error] [Network] #37: https://www.vscode-unpkg.net/_gallery/github/vscode-pull-request-github/latest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:42:18.740 [error] [Window] Error while getting the latest version for the extension ms-vscode.anycode-go. TypeError: AbortSignal.timeout is not a function
+2008-02-07 00:42:18.745 [error] [Window] Error while getting the latest version for the extension ms-vscode.anycode-cpp. TypeError: AbortSignal.timeout is not a function
+2008-02-07 00:42:18.747 [error] [Window] Error while getting the latest version for the extension ms-vscode.anycode-python. TypeError: AbortSignal.timeout is not a function
+2008-02-07 00:42:18.748 [error] [Window] Error while getting the latest version for the extension ms-vscode.anycode-rust. TypeError: AbortSignal.timeout is not a function
+2008-02-07 00:42:18.749 [error] [Window] Error while getting the latest version for the extension ms-vscode.anycode-c-sharp. TypeError: AbortSignal.timeout is not a function
+2008-02-07 00:42:18.749 [error] [Window] Error while getting the latest version for the extension ms-vscode.anycode-kotlin. TypeError: AbortSignal.timeout is not a function
+2008-02-07 00:42:18.750 [error] [Window] Error while getting the latest version for the extension ms-vscode.anycode-java. TypeError: AbortSignal.timeout is not a function
+2008-02-07 00:42:18.751 [error] [Window] Error while getting the latest version for the extension ms-vscode.anycode-php. TypeError: AbortSignal.timeout is not a function
+2008-02-07 00:42:18.752 [error] [Window] Error while getting the latest version for the extension ms-vscode.anycode. TypeError: AbortSignal.timeout is not a function
+2008-02-07 00:42:18.753 [error] [Window] Error while getting the latest version for the extension ms-vscode.anycode-typescript. TypeError: AbortSignal.timeout is not a function
+2008-02-07 00:42:18.754 [error] [Window] Error while getting the latest version for the extension github.remotehub. TypeError: AbortSignal.timeout is not a function
+2008-02-07 00:42:18.755 [error] [Window] Error while getting the latest version for the extension github.codespaces. TypeError: AbortSignal.timeout is not a function
+2008-02-07 00:42:18.756 [error] [Window] Error while getting the latest version for the extension ms-vscode.remote-server. TypeError: AbortSignal.timeout is not a function
+2008-02-07 00:42:18.756 [error] [Window] Error while getting the latest version for the extension ms-vscode.azure-repos. TypeError: AbortSignal.timeout is not a function
+2008-02-07 00:42:18.757 [error] [Window] Error while getting the latest version for the extension ms-vscode.remote-repositories. TypeError: AbortSignal.timeout is not a function
+2008-02-07 00:42:18.758 [error] [Window] Error while getting the latest version for the extension ms-vscode.remote-explorer. TypeError: AbortSignal.timeout is not a function
+2008-02-07 00:42:18.759 [error] [Window] Error while getting the latest version for the extension github.vscode-pull-request-github. TypeError: AbortSignal.timeout is not a function
+2008-02-07 00:42:18.798 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:42:19.992 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:42:20.543 [info] [Window] [RemoteAgentHost] Reconciling: desired=[], current=[]
+2008-02-07 00:42:21.031 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:42:22.375 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:42:22.762 [info] [Window] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2008-02-07 00:42:22.807 [info] [Window] Updating additional builtin extensions cache
+2008-02-07 00:42:23.209 [error] [Window] TypeError: this.local.toSorted is not a function or its return value is not iterable
+    at $at.getEnabledLocalMcpServers (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:3963:21540)
+    at Iat.sync (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:3890:64125)
+    at Iat.start (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:3890:63824)
+    at l2._runFn (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:3896:13018)
+    at l2._run (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:32:6694)
+    at new l2 (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:32:5832)
+    at le (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:32:8934)
+    at new Uat (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:3896:12835)
+    at s._createInstance (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:2117:2000)
+    at s.createInstance (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:2117:1440)
+    at safeCreateContribution (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:639:50274)
+    at l (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:639:49875)
+2008-02-07 00:42:23.744 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:42:24.279 [error] [Window] [Extension Host] TypeError: Cannot redefine property: name
+	at defineProperty (<anonymous>)
+	at n (https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-repositories/0.44.0/extension/dist/browser/extension.js#vscode-extension:3:45)
+	at Object.2031 (https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-repositories/0.44.0/extension/dist/browser/extension.js#vscode-extension:3:20301)
+	at Function.__webpack_require__ (https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-repositories/0.44.0/extension/dist/browser/extension.js#vscode-extension:35:36236)
+	at async getAICore (https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-repositories/0.44.0/extension/dist/browser/extension.js#vscode-extension:36:5586)
+	at async oneDataSystemClientFactory (https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-repositories/0.44.0/extension/dist/browser/extension.js#vscode-extension:36:6443)
+2008-02-07 00:42:27.512 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:42:28.525 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:42:29.530 [error] [Window] TypeError: Cannot read properties of undefined (reading 'onDidChangeTimeline')
+	at Mk.registerTimelineProvider (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:284:92434)
+	at Object.registerTimelineProvider (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:284:169197)
+	at Qc.ensureProviderRegistration (https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-repositories/0.44.0/extension/dist/browser/extension.js#vscode-extension:176:3669)
+	at Qc.onProvidersChanged (https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-repositories/0.44.0/extension/dist/browser/extension.js#vscode-extension:176:1194)
+	at w._deliver (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:28:3644)
+	at w.fire (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:28:3962)
+	at fa.register (https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-repositories/0.44.0/extension/dist/browser/extension.js#vscode-extension:63:5308)
+	at Object.registerVirtualProviderService (https://github.vscode-unpkg.net/GitHub/remotehub/0.66.0/extension/dist/browser/extension.js#vscode-extension:630:52051)
+	at eval (https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-repositories/0.44.0/extension/dist/browser/extension.js#vscode-extension:195:13325)
+2008-02-07 00:42:29.594 [error] [Window] TypeError: Cannot read properties of undefined (reading 'onDidChangeTimeline')
+	at Mk.registerTimelineProvider (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:284:92434)
+	at Object.registerTimelineProvider (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:284:169197)
+	at Qc.ensureProviderRegistration (https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-repositories/0.44.0/extension/dist/browser/extension.js#vscode-extension:176:3669)
+	at Qc.onProvidersChanged (https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-repositories/0.44.0/extension/dist/browser/extension.js#vscode-extension:176:1194)
+	at w._deliver (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:28:3644)
+	at w.fire (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/api/worker/extensionHostWorkerMain.js?vscode-coi=2:28:3962)
+	at fa.register (https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-repositories/0.44.0/extension/dist/browser/extension.js#vscode-extension:63:5308)
+	at Object.registerVirtualProviderService (https://github.vscode-unpkg.net/GitHub/remotehub/0.66.0/extension/dist/browser/extension.js#vscode-extension:630:52169)
+	at eval (https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-repositories/0.44.0/extension/dist/browser/extension.js#vscode-extension:195:13325)
+2008-02-07 00:42:29.600 [error] [Window] [Extension Host] TypeError: Cannot redefine property: name
+	at defineProperty (<anonymous>)
+	at n (https://github.vscode-unpkg.net/GitHub/remotehub/0.66.0/extension/dist/browser/extension.js#vscode-extension:3:146)
+	at Object.2031 (https://github.vscode-unpkg.net/GitHub/remotehub/0.66.0/extension/dist/browser/extension.js#vscode-extension:3:25695)
+	at Function.__webpack_require__ (https://github.vscode-unpkg.net/GitHub/remotehub/0.66.0/extension/dist/browser/extension.js#vscode-extension:35:36439)
+	at async getAICore (https://github.vscode-unpkg.net/GitHub/remotehub/0.66.0/extension/dist/browser/extension.js#vscode-extension:94:21244)
+	at async oneDataSystemClientFactory (https://github.vscode-unpkg.net/GitHub/remotehub/0.66.0/extension/dist/browser/extension.js#vscode-extension:94:22101)
+2008-02-07 00:42:29.992 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:42:30.295 [warning] [Window] [GitService][openRepository] GitExtension delegate is not set after 10 seconds. Cannot open repository.
+2008-02-07 00:42:31.024 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:42:31.770 [error] [Window] TypeError: this.local.toSorted is not a function or its return value is not iterable
+    at $at.getEnabledLocalMcpServers (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:3963:21540)
+    at Iat.sync (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:3890:64125)
+    at https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:3890:63809
+    at up.queue (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:31:74706)
+    at wBe.value (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:3890:63794)
+    at M._deliver (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:30:3669)
+    at M._deliverQueue (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:30:3758)
+    at M.fire (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:30:4093)
+    at $at.queryLocalForGeneration (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:3963:20863)
+    at async $at.queryLocal (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:3963:20426)
+2008-02-07 00:42:32.528 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:42:32.818 [info] [Window] Settings Sync: Account status changed from uninitialized to unavailable
+2008-02-07 00:42:33.660 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:42:36.110 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:42:36.953 [warning] [Window] Creation of workbench contribution 'workbench.contrib.onboarding' took 123ms.
+2008-02-07 00:42:37.204 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:42:39.849 [info] [Cloud Changes] Prompting to enable cloud changes, has application previously launched from Continue On flow: false
+2008-02-07 00:42:40.443 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:42:42.769 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:42:43.800 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:43:09.701 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:43:18.136 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:43:29.535 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:43:35.296 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:43:40.175 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:43:44.317 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:43:51.568 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:43:58.953 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:44:08.041 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:44:21.687 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:44:23.262 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:44:24.531 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:44:36.641 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:44:40.211 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:44:48.714 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:45:05.383 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:45:31.904 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:46:20.026 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:46:31.875 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:47:09.207 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:47:13.188 [error] [Network] #43: https://main.vscode-cdn.net/extensions/marketplace.json - error GET AbortSignal.timeout is not a function
+2008-02-07 00:47:35.890 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:47:49.578 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:48:17.569 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:48:29.203 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:48:30.242 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:48:31.822 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:48:48.767 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:48:50.436 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:49:08.160 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:49:09.326 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:49:23.468 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:49:37.098 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:49:42.184 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:50:24.469 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:50:36.610 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:50:38.362 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:50:53.434 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:51:09.287 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:51:16.287 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:51:23.241 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:51:25.086 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:51:30.296 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:51:43.087 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:51:46.009 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:51:46.028 [error] [Network] #45: https://ms-vscode.gallerycdn.vsassets.io/extensions/ms-vscode/cpptools-extension-pack/1.5.1/1771540600646/Microsoft.VisualStudio.Code.Manifest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:51:46.030 [error] [Network] #46: https://ms-vscode.gallery.vsassets.io/_apis/public/gallery/publisher/ms-vscode/extension/cpptools-extension-pack/1.5.1/assetbyname/Microsoft.VisualStudio.Code.Manifest - error GET AbortSignal.timeout is not a function
+2008-02-07 00:51:50.306 [info] [Window] Extension host (LocalWebWorker) is unresponsive.
+2008-02-07 00:51:51.453 [info] [Window] Extension host (LocalWebWorker) is responsive.
+2008-02-07 00:52:13.473 [error] [Network] #48: https://main.vscode-cdn.net/extensions/marketplace.json - error GET AbortSignal.timeout is not a function
+2008-02-07 00:53:22.585 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:53:24.444 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:53:33.293 [info] [Window] Extension host (LocalWebWorker) is unresponsive.
+2008-02-07 00:53:33.295 [info] [Window] Extension host (LocalWebWorker) is unresponsive.
+2008-02-07 00:53:53.091 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:53:59.368 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:54:25.734 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:54:41.409 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:54:46.370 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:54:49.210 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:55:13.346 [info] [Window] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey=undefined conversationKey=undefined modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2008-02-07 00:55:15.478 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:55:15.571 [error] [Window] CodeExpectedError: No default agent contributed
+    at Utt.activateDefaultAgent (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:3134:14313)
+    at async Utt.initializeSession (https://main.vscode-cdn.net/stable/69047191fc427f2f92828279aae1d90d8eeda7ab/out/vs/workbench/workbench.web.main.internal.js:3134:14039)
+2008-02-07 00:55:16.289 [info] [Window] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/OTYxMTZhZDQtYWI5Mi00ZjljLTg4MzUtNGYzOWQ3NWY5Mzlj" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2008-02-07 00:55:16.798 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:55:17.409 [info] [Window] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/OTYxMTZhZDQtYWI5Mi00ZjljLTg4MzUtNGYzOWQ3NWY5Mzlj" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2008-02-07 00:55:17.833 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:55:23.283 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:55:23.680 [info] [Window] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/OTYxMTZhZDQtYWI5Mi00ZjljLTg4MzUtNGYzOWQ3NWY5Mzlj" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2008-02-07 00:55:29.147 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:55:30.696 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:55:34.255 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:55:39.410 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:55:44.438 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:55:49.484 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:55:54.513 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:56:00.348 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:56:05.703 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:56:11.391 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:56:16.406 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:56:21.618 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:56:26.633 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:56:32.113 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:56:37.150 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:56:42.190 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:56:47.677 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:56:52.742 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:56:57.753 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:57:02.781 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:57:07.814 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:57:12.883 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:57:13.478 [error] [Network] #49: https://main.vscode-cdn.net/extensions/marketplace.json - error GET AbortSignal.timeout is not a function
+2008-02-07 00:57:23.703 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:57:28.867 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:57:33.882 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:57:38.913 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:57:44.616 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:57:49.035 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:57:52.048 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:57:54.705 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:57:59.735 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:58:04.775 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:58:09.788 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:58:14.966 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:58:19.978 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:58:24.991 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:58:30.013 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:58:35.028 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:58:40.045 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:58:47.010 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:58:52.131 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:58:54.708 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:59:02.892 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:59:07.917 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:59:12.929 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:59:16.253 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:59:23.060 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:59:28.088 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:59:32.652 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:59:38.145 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:59:44.962 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:59:49.992 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 00:59:55.236 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 01:00:00.268 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 01:00:05.317 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 01:00:10.635 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 01:00:15.227 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 01:00:16.269 [info] [Window] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/OTYxMTZhZDQtYWI5Mi00ZjljLTg4MzUtNGYzOWQ3NWY5Mzlj" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2008-02-07 01:00:21.897 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 01:00:24.675 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 01:00:26.909 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 01:00:31.939 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 01:00:36.960 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 01:00:41.975 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 01:00:47.002 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 01:00:52.023 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 01:00:57.045 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 01:00:58.343 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 01:00:59.724 [info] [Window] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/OTYxMTZhZDQtYWI5Mi00ZjljLTg4MzUtNGYzOWQ3NWY5Mzlj" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2008-02-07 01:01:02.058 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 01:01:07.089 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 01:01:08.825 [error] [Window] An unknown error occurred. Please consult the log for more details.
+2008-02-07 01:01:12.116 [error] [Window] An unknown error occurred. Please consult the log for more details.
